@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure--9(rl4b3$(bs=vsq0*)r9^2ct_=jig&i=wt0dr#p+-#v%^b)=b'
+SECRET_KEY = 'd#*tn$n!nvfv5_!r9tr9cp@co143ha53xyma63!sz7nrzcx7s_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -76,9 +76,9 @@ WSGI_APPLICATION = 'HMS.wsgi.application'
 DATABASES =  {
       'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'hms',
+        'NAME': 'victor',
         'USER': 'root',
-        'PASSWORD': 'Derrintb2008',
+        'PASSWORD': 'Derrintb2008#',
         'HOST': 'localhost',
         'PORT':'3306',
 }
